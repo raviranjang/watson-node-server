@@ -1,0 +1,5 @@
+---
+applications:
+ - name: GetStartedNode
+   host: josephonibm
+   memory: 256M
